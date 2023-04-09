@@ -10,4 +10,4 @@ Feel free to reach out to me at andrewwoan@gmail.com. I'm always looking for a n
 - **Portfolio:** [Coming soon!] :octocat:
 - **Youtube:** [https://www.youtube.com/@andrewwoan](https://www.youtube.com/@andrewwoan)
 - **Twitter:** [https://twitter.com/andrewwoan](https://twitter.com/andrewwoan)
-- **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/andrewwoan/)
+- **LinkedIn:** [https://www.linkedin.com/andrewwoan](https://www.linkedin.com/in/andrewwoan/)

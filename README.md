@@ -13,5 +13,5 @@ Feel free to reach out to me at andrewwoan@gmail.com or my socials. I'm always l
 - **LinkedIn:** [https://www.linkedin.com/andrewwoan](https://www.linkedin.com/in/andrewwoan/)
 
 ## Stats For Reviewers
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwoan)](https://github.com/andrewwoan/github-readme-stats)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwoan&show_icons=true))](https://github.com/andrewwoan/github-readme-stats)
 

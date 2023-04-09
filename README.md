@@ -8,5 +8,6 @@ Feel free to reach out to me at andrewwoan@gmail.com. I'm always open for a chat
 
 ## Let's Keep in Touch!
 - **Portfolio:** [Coming soon!]
+- **Youtube:** [https://www.youtube.com/@andrewwoan](https://www.youtube.com/@andrewwoan)
 - **Twitter:** [https://twitter.com/andrewwoan](https://twitter.com/andrewwoan)
-- **LinkedIn** [https://www.linkedin.com/](https://www.linkedin.com/in/andrewwoan/)
+- **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/andrewwoan/)

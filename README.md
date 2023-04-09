@@ -4,7 +4,7 @@ Heyo 👋, I'm Andrew! I am a developer that specializes on websites with 3D con
 
 When I'm not programming or 3D modeling, I like to do some sort of art or craft (like origami or graphic design). It's on my bucket list to try as many types of art and crafts as I can before I get too old to be able to not do anything anymore!
 
-Feel free to reach out to me at andrewwoan@gmail.com. I'm always open for a chat or looking for a new project to take on!
+Feel free to reach out to me at andrewwoan@gmail.com. I'm always looking for a new project to take on or down to chat!
 
 ## Let's Keep in Touch!
 - **Portfolio:** [Coming soon!]

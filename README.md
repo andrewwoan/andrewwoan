@@ -14,4 +14,4 @@ Feel free to reach out to me at andrewwoan@gmail.com or my socials. I'm always l
 
 ## Stats For Reviewers
 | <a href="https://github.com/andrewwoan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewwoan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andrew Woan's github stats" /></a> | <a href="https://github.com/andrewwoan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwoan&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+| ------------- | ------------- |

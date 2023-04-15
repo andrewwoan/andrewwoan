@@ -1,6 +1,6 @@
 # 🍚 Andrew Woan (科奥) 🐼
 
-Heyo 👋, thanks for stopping by! I am a developer that specializes on websites with 3D content. I often use [Three.js](https://threejs.org) and [Blender](https://www.blender.org/).
+Heyo 👋, thanks for stopping by! I am a developer that specializes on websites with 3D content. I often use [Three.js](https://threejs.org) and [Blender](https://www.blender.org/). I fell in love with creative development as it bridged my three passions of wanting to be a 3D animator/artist, a game developer, and a web developer. 
 
 When I'm not working, I like to watch or do some sort of art or craft (like origami or graphic design) or I'm outside wandering around in nature. It's on my bucket list to try as many types of art and crafts as I can! I love exploration and all things creative.
 

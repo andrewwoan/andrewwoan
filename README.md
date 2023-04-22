@@ -4,7 +4,7 @@ Heyo 👋, thanks for stopping by! I am a developer that specializes on websites
 
 When I'm not doing those three things, I like to watch or do some other sort of art or craft (or you know, slacking off watching random YouTube videos or gaming). It's on my bucket list to try as many types of art and crafts as I can! I love exploration and all things creative.
 
-Feel free to reach out to me at andrewwoan@gmail.com or my socials. I'm always looking for a new project to take on or down for a chat (tutoring, consulting, or something completely random unrelated to my work)! 
+Feel free to reach out to me at andrewwoan@gmail.com or my socials. I'm always looking for a new project to take on or down for a chat (tutoring, consulting, or something completely random unrelated to my work)!  
 
 ## Let's Keep in Touch!
 - **Portfolio:** [Coming soon!] :octocat:

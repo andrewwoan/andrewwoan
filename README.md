@@ -1,4 +1,4 @@
-# Andrew Woan (科奥)
+# Andrew Woan
 
 I try to make everything I do fun. Fun = happiness = time well spent. Make the best of everything.
 

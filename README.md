@@ -1,4 +1,4 @@
-# Andrew Woan
+# Pandawoan
 
 I try to make everything I do fun. Fun = happiness = time well spent. Make the best of everything.
 
@@ -6,7 +6,6 @@ Feel free to reach out to me at andrewwoan@gmail.com, my socials or schedule a m
 
 ## Let's Keep in Touch!
 - **Portfolio:** [Coming soon!] :octocat:
-- **Twitter:** [https://twitter.com/andrewwoan](https://twitter.com/andrewwoan)
 - **YouTube:** [https://www.youtube.com/@pandawoan](https://www.youtube.com/@pandawoan)
 
 ## Stats for Reviewers
